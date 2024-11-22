@@ -3,6 +3,7 @@
 * Exercice 1.6
 *
 * Vérifier la valeur de EOF
+*/
 
 #include <stdio.h>
 
