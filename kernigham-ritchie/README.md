@@ -1,4 +1,3 @@
-# C ANSI - Kernigham and Ritchie Book
-C ANSI language from Kernigham and Ritchie book
+# C ANSI - Livre de Kernigham & Ritchie
 ##
-The solutions I found to the exercises in their book.
+Les solutions que j'ai trouvées.
