@@ -11,7 +11,7 @@
 int main()
 {
     int caractereEnCours, caracterePrecedent;
-
+    caracterePrecedent = '1';
     while ((caractereEnCours = getchar()) != EOF) {
         if (caractereEnCours != ESPACE || caracterePrecedent != ESPACE)
             putchar(caractereEnCours);
